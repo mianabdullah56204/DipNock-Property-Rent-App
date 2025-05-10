@@ -39,7 +39,7 @@ class MessagesPage extends StatelessWidget {
             labelColor: Theme.of(context).primaryColor,
             unselectedLabelColor: Colors.grey[600],
             tabs: const [
-              Tab(text: 'All'),
+              Tab(text: 'one'),
               Tab(text: 'Buying'),
               Tab(text: 'Selling'),
             ],
