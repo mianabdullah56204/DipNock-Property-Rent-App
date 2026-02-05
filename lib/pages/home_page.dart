@@ -2,7 +2,7 @@ import 'package:app/pages/listing_page.dart';
 import 'package:app/pages/messages.dart';
 import 'package:app/pages/pages_on_home/buy.dart';
 import 'package:app/pages/profile.dart';
-import 'package:app/utils/custom_bottom_nav_bar.dart';
+import 'package:app/widgets/custom_bottom_nav_bar.dart';
 import 'package:flutter/material.dart';
 
 // Dummy user data

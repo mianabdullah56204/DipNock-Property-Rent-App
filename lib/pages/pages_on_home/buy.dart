@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'package:app/pages/favourites.dart';
 import 'package:app/pages/listing_page.dart';
-import 'package:app/utils/filter_page.dart';
-import 'package:app/utils/list_builder.dart';
-import 'package:app/utils/property_card.dart';
+import 'package:app/widgets/filter_page.dart';
+import 'package:app/widgets/list_builder.dart';
+import 'package:app/widgets/property_card.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
 import 'package:flutter/material.dart';
 
@@ -307,7 +307,7 @@ class _BuyState extends State<Buy> {
           builder: (_, controller) => Column(
             children: [
               Container(
-                padding: const EdgeInsets.symmetric(
+                padding: EdgeInsets.symmetric(
                   horizontal: 16,
                   vertical: 8,
                 ),

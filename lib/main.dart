@@ -1,12 +1,15 @@
+import 'package:device_preview/device_preview.dart';
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
 import 'package:app/pages/favourites.dart';
 import 'package:app/pages/home_page.dart';
 import 'package:app/pages/listing_page.dart';
 import 'package:app/providers/favourites_provider.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 void main() {
-  runApp(MyApp());
+  // runApp(MyApp());
+  runApp(DevicePreview(builder: (context) => const MyApp()));
 }
 
 class MyApp extends StatelessWidget {
@@ -18,6 +21,7 @@ class MyApp extends StatelessWidget {
       create: (context) => FavouritesProvider(),
       child: MaterialApp(
         title: 'Dipnock',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
           appBarTheme: AppBarTheme(
               backgroundColor: Colors.white,
@@ -26,9 +30,7 @@ class MyApp extends StatelessWidget {
               scrolledUnderElevation: 0),
           primarySwatch: Colors.red,
           primaryColor: Colors.red,
-          // Define other theme properties if needed
           textTheme: const TextTheme(
-            // Example text theme
             titleLarge: TextStyle(
               fontSize: 20.0,
               fontWeight: FontWeight.bold,
@@ -56,7 +58,6 @@ class MyApp extends StatelessWidget {
             ),
           ),
           elevatedButtonTheme: ElevatedButtonThemeData(
-            // Example button theme
             style: ElevatedButton.styleFrom(
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(8.0),
@@ -72,7 +73,6 @@ class MyApp extends StatelessWidget {
           '/favourites': (context) => const FavouritesPage(),
           // Add other routes like '/login', '/details', etc.
         },
-        debugShowCheckedModeBanner: false, // Remove debug banner
       ),
     );
   }

@@ -62,7 +62,9 @@ class FavouritesProvider with ChangeNotifier {
 
   // Getter to return the full listing objects that are favorites
   List<Map<String, dynamic>> get favoriteListings {
-    return dummyListings.where((listing) => _favoriteIds.contains(listing['id'])).toList();
+    return dummyListings
+        .where((listing) => _favoriteIds.contains(listing['id']))
+        .toList();
   }
 
   // Check if a specific listing is a favorite
