@@ -41,32 +41,32 @@ The purpose of this project is to provide a digital real estate platform that si
 ## 📸 App Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/f1354ebe-0602-4aec-89e6-363ef6c541be" width="30%" />
-  <img src="https://github.com/user-attachments/assets/ab0bfc9e-36f0-4f62-8cdb-cbdcb285b93e" width="30%" />
-  <img src="https://github.com/user-attachments/assets/d6425586-a876-47a4-a917-e250f3972946" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6238df73-192f-45a0-9677-74d0818df9fe" width="30%" />
+  <img src="https://github.com/user-attachments/assets/153345d9-75a3-40ac-926e-758a3ccb8e84" width="30%" />
+  <img src="https://github.com/user-attachments/assets/11726abd-c31b-4cdc-aca1-fd471f41ec45" width="30%" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/a6ade38d-42d4-4395-bcfa-4508785308de" width="30%" />
-  <img src="https://github.com/user-attachments/assets/9bc88637-c0c7-413f-93a1-0287685baebb" width="30%" />
-  <img src="https://github.com/user-attachments/assets/fd0368f6-91bd-4b7d-98ac-d10361494ea3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/72ebd02e-6503-433c-92ef-5eb9c7061bbf" width="30%" />
+  <img src="https://github.com/user-attachments/assets/aa6d0a73-319a-4240-9d05-e5c204b20023" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f5bf3e29-d450-4b8f-84f1-15fe15598d2c" width="30%" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/ca7d4c57-c79c-47ce-a06f-5db09e17206e" width="30%" />
-  <img src="https://github.com/user-attachments/assets/2bbf18c2-e505-4b7b-b785-84c1da5226b5" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b25b9b0a-4059-40a7-afa1-328aff52ab29" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b2a0c870-07ac-4bf6-8cfa-e30bb412fa6e" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4c3e955c-5be3-4bb3-b79b-a90f39287779" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1e614963-73aa-401a-b5f4-a434b42061d0" width="30%" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/f465e71c-e857-44f2-89cc-8d5dcff0bfaa" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b3392d4e-fea6-4b98-b272-440877477b21" width="30%" />
-  <img src="https://github.com/user-attachments/assets/774603ed-487c-4d54-9d1c-ca37214ca788" width="30%" />
+  <img src="https://github.com/user-attachments/assets/a0a69907-2138-4c23-99e0-5dda9047d21d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/16726dd9-20cd-4f42-90bd-22c61e90cbd9" width="30%" />
+  <img src="https://github.com/user-attachments/assets/085824ab-80bc-4f8b-a7e7-2f8e5f6e2d2e" width="30%" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/60ea8bc1-d321-4713-8ac0-0e1db8e9fd9a" width="30%" />
-  <img src="https://github.com/user-attachments/assets/667ffebc-9586-495f-b570-c85ec0580844" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f97d7d69-948b-4271-bf1e-5d071a079602" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7aee5491-5593-46f0-a6f3-de7b24137c32" width="30%" />
 </p>
 
 > 📌 Note: Create a folder named `screenshots` in your project root and place all screenshots inside it with the same names.
@@ -76,3 +76,4 @@ The purpose of this project is to provide a digital real estate platform that si
 - **Dart** – Programming Language  
 - **Material UI** – UI Components  
 - **Firebase / API (Optional)** – Property data & user management 
+
