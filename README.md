@@ -1,4 +1,4 @@
-<img width="371" height="831" alt="Screenshot 2026-01-29 224534" src="https://github.com/user-attachments/assets/2546ff9c-dca9-4197-b86c-4a15096569aa" /># 🏠 DipDock – Property Rent & Buy Flutter App
+## 🏠 DipDock – Property Rent & Buy Flutter App
 
 ## 📝 Project Description
 DipDock is a modern Flutter-based property rental and buying application that connects property owners with tenants and buyers. Users can browse properties, apply filters, view detailed listings, save favorites, and directly contact property owners via call or WhatsApp using a clean and user-friendly interface.
@@ -40,14 +40,12 @@ The purpose of this project is to provide a digital real estate platform that si
 
 ## 📸 App Screenshots
 
-### 🔹 Home & Filters
 <p float="left">
   <img src="https://github.com/user-attachments/assets/f1354ebe-0602-4aec-89e6-363ef6c541be" width="30%" />
   <img src="https://github.com/user-attachments/assets/ab0bfc9e-36f0-4f62-8cdb-cbdcb285b93e" width="30%" />
   <img src="https://github.com/user-attachments/assets/d6425586-a876-47a4-a917-e250f3972946" width="30%" />
 </p>
 
-### 🔹 Property Details & Results
 <p float="left">
   <img src="https://github.com/user-attachments/assets/a6ade38d-42d4-4395-bcfa-4508785308de" width="30%" />
   <img src="https://github.com/user-attachments/assets/9bc88637-c0c7-413f-93a1-0287685baebb" width="30%" />
