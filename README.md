@@ -1,7 +1,7 @@
-## 🏠 DipDock – Property Rent & Buy Flutter App
+## 🏠 DipNock – Property Rent & Buy Flutter App
 
 ## 📝 Project Description
-DipDock is a modern Flutter-based property rental and buying application that connects property owners with tenants and buyers. Users can browse properties, apply filters, view detailed listings, save favorites, and directly contact property owners via call or WhatsApp using a clean and user-friendly interface.
+DipNock is a modern Flutter-based property rental and buying application that connects property owners with tenants and buyers. Users can browse properties, apply filters, view detailed listings, save favorites, and directly contact property owners via call or WhatsApp using a clean and user-friendly interface.
 
 ## 🎯 Purpose of the Project
 The purpose of this project is to provide a digital real estate platform that simplifies property searching, renting, and buying. It helps users save time by offering smart filters, verified listings, and direct communication options.
@@ -76,5 +76,6 @@ The purpose of this project is to provide a digital real estate platform that si
 - **Dart** – Programming Language  
 - **Material UI** – UI Components  
 - **Firebase / API (Optional)** – Property data & user management 
+
 
 
